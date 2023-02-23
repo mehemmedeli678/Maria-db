@@ -1,0 +1,96 @@
+{"date":"15-2-2023/22:20","level":"error","message":"Cannot destructure property 'name' of 'req.body' as it is undefined.","service":"ProductController/add"}
+{"date":"15-2-2023/22:29","level":"error","message":"Cannot destructure property 'name' of 'req.body' as it is undefined.","service":"ProductController/add"}
+{"date":"15-2-2023/22:30","level":"error","message":"Cannot destructure property 'name' of 'req.body' as it is undefined.","service":"ProductController/add"}
+{"date":"15-2-2023/22:30","level":"error","message":"name is not defined","service":"ProductController/add"}
+{"date":"15-2-2023/22:42","level":"error","message":"ER_BAD_FIELD_ERROR: Unknown column 'iphone' in 'field list'","service":"ProductController/add"}
+{"date":"15-2-2023/22:42","level":"error","message":"ER_BAD_FIELD_ERROR: Unknown column 'Iphone' in 'field list'","service":"ProductController/add"}
+{"date":"15-2-2023/22:43","level":"error","message":"ER_BAD_FIELD_ERROR: Unknown column 'Iphone' in 'field list'","service":"ProductController/add"}
+{"date":"15-2-2023/22:44","level":"error","message":"ER_BAD_FIELD_ERROR: Unknown column 'Iphone' in 'field list'","service":"ProductController/add"}
+{"date":"15-2-2023/22:57","level":"error","message":"ER_BAD_FIELD_ERROR: Unknown column 'Iphone' in 'field list'","service":"ProductController/add"}
+{"date":"15-2-2023/22:58","level":"error","message":"ER_BAD_FIELD_ERROR: Unknown column 'Iphone' in 'field list'","service":"ProductController/add"}
+{"date":"15-2-2023/22:58","level":"error","message":"ER_BAD_FIELD_ERROR: Unknown column 'Iphone' in 'field list'","service":"ProductController/add"}
+{"date":"15-2-2023/22:58","level":"error","message":"ER_BAD_FIELD_ERROR: Unknown column 'Iphone' in 'field list'","service":"ProductController/add"}
+{"date":"15-2-2023/22:59","level":"error","message":"ER_BAD_FIELD_ERROR: Unknown column 'Iphone' in 'field list'","service":"ProductController/add"}
+{"date":"15-2-2023/23:15","level":"error","message":"message is not defined","service":"ProductController/add"}
+{"date":"15-2-2023/23:44","level":"error","message":"user is not defined","service":"productValidation/add"}
+{"date":"15-2-2023/23:49","level":"error","message":"Not Found","service":"api404"}
+{"date":"16-2-2023/12:24","level":"error","message":"ER_EMPTY_QUERY: Query was empty","service":"ProductController/add"}
+{"date":"16-2-2023/12:25","level":"error","message":"ER_EMPTY_QUERY: Query was empty","service":"ProductController/add"}
+{"date":"16-2-2023/12:26","level":"error","message":"ER_EMPTY_QUERY: Query was empty","service":"ProductController/add"}
+{"date":"16-2-2023/12:38","level":"error","message":"ER_EMPTY_QUERY: Query was empty","service":"ProductController/add"}
+{"date":"16-2-2023/13:3","level":"error","message":"The \"original\" argument must be of type function. Received undefined","service":"ProductController/getall"}
+{"date":"16-2-2023/13:4","level":"error","message":"The \"original\" argument must be of type function. Received undefined","service":"ProductController/getall"}
+{"date":"16-2-2023/13:4","level":"error","message":"The \"original\" argument must be of type function. Received undefined","service":"ProductController/getall"}
+{"date":"16-2-2023/14:41","level":"error","message":"db.query is not a function","service":"ProductController/getall"}
+{"date":"16-2-2023/15:3","level":"error","message":"db.getConnection is not a function","service":"ProductController/getall"}
+{"date":"16-2-2023/16:20","level":"error","message":"(conn=17, no: 1046, SQLState: 3D000) No database selected\nsql: INSERT INTO myTable value (?, ?) - parameters:[1,'mariadb']","service":"ProductController/getall"}
+{"date":"16-2-2023/16:21","level":"error","message":"Cannot read properties of undefined (reading 'success')","service":"ProductController/getall"}
+{"date":"16-2-2023/16:21","level":"error","message":"(conn=27, no: 1007, SQLState: HY000) Can't create database 'mydb'; database exists\nsql: CREATE DATABASE mydb - parameters:[]","service":"ProductController/getall"}
+{"date":"16-2-2023/16:22","level":"error","message":"Cannot read properties of undefined (reading 'success')","service":"ProductController/getall"}
+{"date":"16-2-2023/16:24","level":"error","message":"Cannot read properties of undefined (reading 'query')","service":"ProductController/getall"}
+{"date":"16-2-2023/16:26","level":"error","message":"Cannot read properties of undefined (reading 'query')","service":"ProductController/getall"}
+{"date":"16-2-2023/16:29","level":"error","message":"Cannot read properties of undefined (reading 'query')","service":"ProductController/getall"}
+{"date":"16-2-2023/16:30","level":"error","message":"Cannot read properties of undefined (reading 'query')","service":"ProductController/getall"}
+{"date":"16-2-2023/16:30","level":"error","message":"Cannot read properties of undefined (reading 'query')","service":"ProductController/getall"}
+{"date":"16-2-2023/16:30","level":"error","message":"Cannot read properties of undefined (reading 'query')","service":"ProductController/getall"}
+{"date":"16-2-2023/16:30","level":"error","message":"Cannot read properties of undefined (reading 'query')","service":"ProductController/getall"}
+{"date":"16-2-2023/16:30","level":"error","message":"Cannot read properties of undefined (reading 'query')","service":"ProductController/getall"}
+{"date":"16-2-2023/16:30","level":"error","message":"Cannot read properties of undefined (reading 'query')","service":"ProductController/getall"}
+{"date":"16-2-2023/16:30","level":"error","message":"Cannot read properties of undefined (reading 'query')","service":"ProductController/getall"}
+{"date":"16-2-2023/16:31","level":"error","message":"Cannot read properties of undefined (reading 'query')","service":"ProductController/getall"}
+{"date":"16-2-2023/16:31","level":"error","message":"Cannot read properties of undefined (reading 'query')","service":"ProductController/getall"}
+{"date":"16-2-2023/16:32","level":"error","message":"Cannot read properties of undefined (reading 'query')","service":"ProductController/getall"}
+{"date":"16-2-2023/16:34","level":"error","message":"conn.query is not a function","service":"ProductController/getall"}
+{"date":"16-2-2023/16:34","level":"error","message":"conn.query is not a function","service":"ProductController/getall"}
+{"date":"16-2-2023/16:34","level":"error","message":"(conn=109, no: 1064, SQLState: 42000) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TABLE category (id int NOT NULL AUTO_INCREMENT,name nvarchar(50))' at line 1\nsql: CREATE OR REPLACE TABLE category (id int NOT NULL AUTO_INCREMENT,name nvarchar(50)) - parameters:[]","service":"ProductController/getall"}
+{"date":"16-2-2023/16:35","level":"error","message":"(conn=114, no: 1075, SQLState: 42000) Incorrect table definition; there can be only one auto column and it must be defined as a key\nsql: CREATE TABLE category (id int NOT NULL AUTO_INCREMENT,name nvarchar(50)) - parameters:[]","service":"ProductController/getall"}
+{"date":"16-2-2023/16:35","level":"error","message":"(conn=119, no: 1075, SQLState: 42000) Incorrect table definition; there can be only one auto column and it must be defined as a key\nsql: CREATE TABLE category (id int AUTO_INCREMENT,name nvarchar(50)) - parameters:[]","service":"ProductController/getall"}
+{"date":"16-2-2023/16:35","level":"error","message":"Do not know how to serialize a BigInt","service":"ProductController/getall"}
+{"date":"16-2-2023/16:37","level":"error","message":"Do not know how to serialize a BigInt","service":"ProductController/getall"}
+{"date":"16-2-2023/16:38","level":"error","message":"Do not know how to serialize a BigInt","service":"ProductController/getall"}
+{"date":"16-2-2023/16:39","level":"error","message":"Cannot read properties of undefined (reading 'success')","service":"ProductController/getall"}
+{"date":"16-2-2023/18:4","level":"error","message":"Not Found","service":"api404"}
+{"date":"16-2-2023/18:6","level":"error","message":"Cannot read properties of undefined (reading 'success')","service":"CategoryController/getall"}
+{"date":"16-2-2023/18:9","level":"error","message":"(conn=264, no: 45049, SQLState: HY000) sql parameter is mandatory","service":"CategoryController/remove"}
+{"date":"16-2-2023/18:10","level":"error","message":"(conn=274, no: 45049, SQLState: HY000) sql parameter is mandatory","service":"CategoryController/remove"}
+{"date":"16-2-2023/18:10","level":"error","message":"(conn=288, no: 45049, SQLState: HY000) sql parameter is mandatory","service":"categoryController/add"}
+{"date":"16-2-2023/18:30","level":"error","message":"(conn=289, no: 1054, SQLState: 42S22) Unknown column 'telefon' in 'field list'\nsql: INSERT INTO category (name) VALUES (telefon) - parameters:[]","service":"categoryController/add"}
+{"date":"16-2-2023/18:38","level":"error","message":"Not Found","service":"api404"}
+{"date":"17-2-2023/0:27","level":"error","message":"(conn=438, no: 1364, SQLState: HY000) Field 'id' doesn't have a default value\nsql: INSERT INTO category (name) VALUES (\"telefon\") - parameters:[]","service":"categoryController/add"}
+{"date":"19-2-2023/0:13","level":"error","message":"(conn=466, no: 1146, SQLState: 42S02) Table 'testmigration.category' doesn't exist\nsql: SELECT * FROM category WHERE id=1 - parameters:[]","service":"CategoryController/get"}
+{"date":"19-2-2023/0:13","level":"error","message":"Not Found","service":"api404"}
+{"date":"19-2-2023/0:13","level":"error","message":"Not Found","service":"api404"}
+{"date":"21-2-2023/6:20","level":"error","message":"Not Found","service":"api404"}
+{"date":"21-2-2023/6:20","level":"error","message":"Not Found","service":"api404"}
+{"date":"21-2-2023/6:20","level":"error","message":"Not Found","service":"api404"}
+{"date":"21-2-2023/6:20","level":"error","message":"Not Found","service":"api404"}
+{"date":"21-2-2023/6:20","level":"error","message":"Not Found","service":"api404"}
+{"date":"21-2-2023/6:36","level":"error","message":"Not Found","service":"api404"}
+{"date":"21-2-2023/6:37","level":"error","message":"Not Found","service":"api404"}
+{"date":"21-2-2023/6:38","level":"error","message":"Not Found","service":"api404"}
+{"date":"21-2-2023/6:40","level":"error","message":"Not Found","service":"api404"}
+{"date":"21-2-2023/6:40","level":"error","message":"(conn=648, no: 1146, SQLState: 42S02) Table 'testmigration.product' doesn't exist\nsql: SELECT * FROM product pr right join mydb.category ct on ct.id=pr.categoryId where pr.id=2 - parameters:[]","service":"ProductController/get"}
+{"date":"21-2-2023/6:41","level":"error","message":"(conn=658, no: 1146, SQLState: 42S02) Table 'testmigration.product' doesn't exist\nsql: SELECT * FROM product pr right join mydb.category ct on ct.id=pr.categoryId where pr.id=2 - parameters:[]","service":"ProductController/get"}
+{"date":"21-2-2023/6:41","level":"error","message":"(conn=659, no: 1146, SQLState: 42S02) Table 'testmigration.product' doesn't exist\nsql: SELECT * FROM product pr right join mydb.category ct on ct.id=pr.categoryId where pr.id=2 - parameters:[]","service":"ProductController/get"}
+{"date":"21-2-2023/6:43","level":"error","message":"(conn=678, no: 1146, SQLState: 42S02) Table 'testmigration.category' doesn't exist\nsql: SELECT * FROM category WHERE id=1 - parameters:[]","service":"CategoryController/get"}
+{"date":"21-2-2023/6:44","level":"error","message":"Not Found","service":"api404"}
+{"date":"21-2-2023/6:44","level":"error","message":"Not Found","service":"api404"}
+{"date":"21-2-2023/6:44","level":"error","message":"Not Found","service":"api404"}
+{"date":"21-2-2023/6:44","level":"error","message":"Not Found","service":"api404"}
+{"date":"21-2-2023/6:44","level":"error","message":"Error in results, duplicate field name `id`.\n(see option `checkDuplicate`)\nsql: SELECT * FROM product pr right join mydb.category ct on ct.id=pr.categoryId where pr.id=2 - parameters:[]","service":"ProductController/get"}
+{"date":"21-2-2023/6:44","level":"error","message":"Error in results, duplicate field name `id`.\n(see option `checkDuplicate`)\nsql: SELECT * FROM product pr right join mydb.category ct on ct.id=pr.categoryId where pr.id=2 - parameters:[]","service":"ProductController/get"}
+{"date":"21-2-2023/6:44","level":"error","message":"Error in results, duplicate field name `id`.\n(see option `checkDuplicate`)\nsql: SELECT * FROM product pr right join mydb.category ct on ct.id=pr.categoryId where pr.id=2 - parameters:[]","service":"ProductController/get"}
+{"date":"21-2-2023/6:47","level":"error","message":"Error in results, duplicate field name `id`.\n(see option `checkDuplicate`)\nsql: SELECT * FROM product pr LEFT join mydb.category ct on ct.id=pr.categoryId where pr.id=2 - parameters:[]","service":"ProductController/get"}
+{"date":"21-2-2023/6:47","level":"error","message":"Error in results, duplicate field name `id`.\n(see option `checkDuplicate`)\nsql: SELECT * FROM product pr LEFT join mydb.category ct on ct.id=pr.categoryId where pr.id=1 - parameters:[]","service":"ProductController/get"}
+{"date":"21-2-2023/6:49","level":"error","message":"Error in results, duplicate field name `id`.\n(see option `checkDuplicate`)\nsql: SELECT * FROM product pr LEFT join category ct on ct.id=pr.categoryId where pr.id=1 - parameters:[]","service":"ProductController/get"}
+{"date":"21-2-2023/6:50","level":"error","message":"Error in results, duplicate field name `id`.\n(see option `checkDuplicate`)\nsql: SELECT * FROM product pr LEFT join category ct on ct.id=pr.categoryId where pr.id=1 - parameters:[]","service":"ProductController/get"}
+{"date":"21-2-2023/6:51","level":"error","message":"Error in results, duplicate field name `id`.\n(see option `checkDuplicate`)\nsql: SELECT * FROM product pr LEFT join category ct on ct.id=pr.categoryId where pr.id=1 - parameters:[]","service":"ProductController/get"}
+{"date":"21-2-2023/6:51","level":"error","message":"Not Found","service":"api404"}
+{"date":"21-2-2023/6:52","level":"error","message":"Not Found","service":"api404"}
+{"date":"21-2-2023/6:52","level":"error","message":"Not Found","service":"api404"}
+{"date":"21-2-2023/6:52","level":"error","message":"Not Found","service":"api404"}
+{"date":"21-2-2023/6:52","level":"error","message":"Not Found","service":"api404"}
+{"date":"21-2-2023/6:54","level":"error","message":"Not Found","service":"api404"}
+{"date":"21-2-2023/6:55","level":"error","message":"Error in results, duplicate field name `id`.\n(see option `checkDuplicate`)\nsql: SELECT * FROM product pr LEFT join category ct on ct.id=pr.categoryId where pr.id=1 - parameters:[]","service":"ProductController/get"}
+{"date":"21-2-2023/7:0","level":"error","message":"Error in results, duplicate field name `id`.\n(see option `checkDuplicate`)\nsql: SELECT * FROM product pr LEFT join category ct on ct.id=pr.categoryId where pr.id=1 - parameters:[]","service":"ProductController/get"}
+{"date":"21-2-2023/7:1","level":"error","message":"Error in results, duplicate field name `id`.\n(see option `checkDuplicate`)\nsql: SELECT * FROM product pr LEFT join category ct on ct.id=pr.categoryId where pr.id=1 - parameters:[]","service":"ProductController/get"}
